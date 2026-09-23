@@ -3,6 +3,6 @@
 // Language: Python3​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START257D/problems/FALLPR
-// Solved on: 2026-09-23T15:58:28.381Z
+// Solved on: 2026-09-23T16:00:07.165Z
 
-# cook your dish here
+// source not captured automatically - open the solution page and copy it manually
