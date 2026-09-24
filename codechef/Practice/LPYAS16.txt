@@ -1,0 +1,8 @@
+// Problem: LPYAS16
+// Platform: codechef
+// Language: print("Hello", "World", 5, "endl", 2)
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python/LPPYAS02/problems/LPYAS16
+// Solved on: 2026-09-24T17:04:58.192Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
