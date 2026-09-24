@@ -1,0 +1,8 @@
+// Problem: LPYAS14
+// Platform: codechef
+// Language: print(7, "\n", 5)
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python/LPPYAS02/problems/LPYAS14
+// Solved on: 2026-09-24T17:04:50.996Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
