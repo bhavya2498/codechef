@@ -1,0 +1,10 @@
+// Problem: LPYAS13
+// Platform: codechef
+// Language: print(8)
+print(13, end=" ")
+print(21)
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python/LPPYAS02/problems/LPYAS13
+// Solved on: 2026-09-24T17:04:40.200Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
