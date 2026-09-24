@@ -1,0 +1,9 @@
+// Problem: LPYAS17
+// Platform: codechef
+// Language: print("Hello")
+print(" World!")
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/python/LPPYAS02/problems/LPYAS17
+// Solved on: 2026-09-24T17:05:03.003Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
