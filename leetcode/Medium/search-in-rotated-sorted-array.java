@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/search-in-rotated-sorted-array/
-// Solved on: 2026-09-27T08:06:35.853Z
+// Solved on: 2026-09-27T08:06:55.041Z
 
 class Solution {
     public int search(int[] nums, int target) {
