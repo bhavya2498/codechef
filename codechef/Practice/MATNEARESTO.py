@@ -3,9 +3,6 @@
 // Language: Python3​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY022/problems/MATNEARESTO
-// Solved on: 2026-09-28T13:43:24.130Z
+// Solved on: 2026-09-28T13:44:02.970Z
 
-3 3
-0 1 1
-0 1 0
-1 1 1
+// source not captured automatically - open the solution page and copy it manually
