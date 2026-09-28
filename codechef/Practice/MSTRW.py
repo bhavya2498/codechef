@@ -3,7 +3,6 @@
 // Language: Python3​
 // Verdict: Accepted
 // URL: https://www.codechef.com/DSAMONDAY022/problems/MSTRW
-// Solved on: 2026-09-28T13:44:16.204Z
+// Solved on: 2026-09-28T13:47:51.573Z
 
-abccc
-1
+// source not captured automatically - open the solution page and copy it manually
