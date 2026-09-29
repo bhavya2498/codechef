@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/length-of-last-word/
-// Solved on: 2026-09-29T17:17:54.982Z
+// Solved on: 2026-09-29T17:19:16.655Z
 
 class Solution {
     public int lengthOfLastWord(String s) {
