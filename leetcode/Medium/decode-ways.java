@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/decode-ways/
-// Solved on: 2026-09-29T17:20:26.707Z
+// Solved on: 2026-09-29T17:24:00.887Z
 
 class Solution {
     public int numDecodings(String s) {
