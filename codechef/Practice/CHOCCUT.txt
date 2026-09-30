@@ -1,0 +1,8 @@
+// Problem: CHOCCUT
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START258D/problems/CHOCCUT
+// Solved on: 2026-09-30T14:52:04.615Z
+
+# cook your dish here
