@@ -3,14 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START258D/problems/MEXGAME1
-// Solved on: 2026-09-30T14:44:46.864Z
+// Solved on: 2026-09-30T14:49:26.278Z
 
-4
-3
-0 3 0
-4
-0 1 2 3
-4
-0 0 1 1
-1
-100
+// source not captured automatically - open the solution page and copy it manually
