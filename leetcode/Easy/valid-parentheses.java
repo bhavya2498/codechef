@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/valid-parentheses/
-// Solved on: 2026-09-23T14:12:13.507Z
+// Solved on: 2026-10-01T14:10:50.066Z
 
 class Solution {
     public boolean isValid(String s) {
