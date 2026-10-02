@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/generate-parentheses/
-// Solved on: 2026-09-23T14:10:41.536Z
+// Solved on: 2026-10-02T14:05:55.135Z
 
 class Solution {
     public List<String> generateParenthesis(int n) {
