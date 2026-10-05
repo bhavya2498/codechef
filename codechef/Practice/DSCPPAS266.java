@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sorting-new/SORTING01/problems/DSCPPAS266
-// Solved on: 2026-10-01T14:22:47.967Z
+// Solved on: 2026-10-05T12:47:54.794Z
 
 public static boolean canReduce(int N, int[] arr) {
 
