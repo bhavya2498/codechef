@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/FLOW006
-// Solved on: 2026-10-18T16:56:25.588Z
+// Solved on: 2026-10-19T16:45:35.904Z
 
 
 import java.util.Scanner;
