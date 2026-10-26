@@ -1,0 +1,47 @@
+// Problem: Count Islands With Total Value Divisible by K
+// Platform: leetcode
+// Rating/Difficulty: Medium
+// Language: java
+// Verdict: Accepted
+// URL: https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
+// Solved on: 2026-10-26T03:01:41.765Z
+
+
+class Solution {
+    public int countIslands(int[][] grid, int k) {
+        int m = grid.length;
+        int n = grid[0].length;
+        int count = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] > 0) {
+                    long sum = dfs(grid, i, j, m, n);
+                    if (sum % k == 0) {
+                        count++;
+                    }
+                }
+            }
+        }
+
+        return count;
+    }
+
+    private long dfs(int[][] grid, int i, int j, int m, int n) {
+        if (i < 0 || i >= m || j < 0 || j >= n
+                || grid[i][j] == 0) {
+            return 0;
+        }
+
+        int value = grid[i][j];
+        grid[i][j] = 0; // Mark visited
+        long sum = value;
+
+        sum += dfs(grid, i + 1, j, m, n);
+        sum += dfs(grid, i - 1, j, m, n);
+        sum += dfs(grid, i, j + 1, m, n);
+        sum += dfs(grid, i, j - 1, m, n);
+
+        return sum;
+    }
+}
