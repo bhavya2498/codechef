@@ -3,17 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START262B/problems/PHSHFT
-// Solved on: 2026-10-28T14:40:37.738Z
+// Solved on: 2026-10-28T14:41:15.168Z
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
-class Codechef
-{
-	public static void main (String[] args) throws java.lang.Exception
-	{
-		// your code goes here
-
-	}
-}
+// source not captured automatically - open the solution page and copy it manually
