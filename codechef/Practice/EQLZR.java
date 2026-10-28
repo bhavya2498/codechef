@@ -3,14 +3,6 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START262B/problems/EQLZR
-// Solved on: 2026-10-28T14:34:52.697Z
+// Solved on: 2026-10-28T14:36:05.699Z
 
-4
-4
-1 1 2 2
-7
-1 2 3 4 5 6 7
-4
-3 3 3 3
-6
--2 5 4 4 5 -2
+// source not captured automatically - open the solution page and copy it manually
