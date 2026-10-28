@@ -1,0 +1,16 @@
+// Problem: XORQUADS
+// Platform: codechef
+// Language: Java​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START262B/problems/XORQUADS
+// Solved on: 2026-10-28T14:35:32.332Z
+
+4
+4
+5 3 7 6
+7
+0 0 10 12 0 12 10
+7
+0 9 7 0 3 1 0
+10
+31 797 476 335 452 606 863 201 532 240
