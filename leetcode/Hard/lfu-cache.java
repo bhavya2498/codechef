@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/lfu-cache/
-// Solved on: 2026-11-01T07:21:03.508Z
+// Solved on: 2026-11-01T07:21:09.028Z
 
 
 import java.util.*;
