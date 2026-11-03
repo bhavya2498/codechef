@@ -1,0 +1,21 @@
+// Problem: Transpose File
+// Platform: leetcode
+// Rating/Difficulty: Medium
+// Language: bash
+// Verdict: Accepted
+// URL: https://leetcode.com/problems/transpose-file/
+// Solved on: 2026-11-03T15:35:52.682Z
+
+awk '
+{
+    for (i = 1; i <= NF; i++) {
+        if (NR == 1)
+            result[i] = $i
+        else
+            result[i] = result[i] " " $i
+    }
+}
+END {
+    for (i = 1; i <= NF; i++)
+        print result[i]
+}' file.txt
