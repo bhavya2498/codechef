@@ -1,0 +1,10 @@
+// Problem: Tenth Line
+// Platform: leetcode
+// Rating/Difficulty: Easy
+// Language: bash
+// Verdict: Accepted
+// URL: https://leetcode.com/problems/tenth-line/
+// Solved on: 2026-11-03T15:18:02.805Z
+
+# Read from the file file.txt and output the tenth line to stdout.
+sed -n '10p' file.txt
